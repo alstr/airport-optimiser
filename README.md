@@ -2,13 +2,17 @@
 
 Script to remove vehicles from X-Plane scenery.
 
+**⚠️ Important**
+
+The version of Airport Optimiser originally posted on X-Plane.org is unsupported. Numerous requests have been made for it to be removed but all have been ignored. The only official release and updates are available via this GitHub repository. Files elsewhere are stale, may crash your simulator, and are not maintained.
+
 ## Features
     
-* Removes airport ground vehicles and/or world scenery vehicles to improve FPS (potentially by around 3-4)
+* Removes airport ground vehicles and/or world scenery vehicles, potentially improving FPS by around 3-4 (your mileage will vary)
 * Backs up the relevant files automatically before making changes, and can restore them at a later date
 * Efficiently edits large files that are otherwise impossible to manage in a normal text editor
 * Doesn't impact BetterPushback (effects on other addons are untested)
-* Works with any version of X-Plane, unlike pre-packaged apt.dat scripts out there (just re-run if you update the sim)
+* Works with any version of X-Plane, unlike pre-packaged `apt.dat` scripts out there (just re-run if you update the sim)
 
 ## Usage
 
